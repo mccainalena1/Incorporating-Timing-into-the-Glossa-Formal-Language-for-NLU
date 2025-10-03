@@ -5,7 +5,7 @@
 [![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)]()  
 
 ## 📖 Project Overview  
-Research project extending the Glossa formal language with temporal constructs to support natural language understanding (NLU). Includes source code, experiments in Jupyter notebooks, and project deliverables (paper, figures, presentation).  
+Extension of the Glossa formal language with temporal constructs to support natural language understanding (NLU). Includes source code, testing notebook, and deliverables (paper, figures, presentation).  
 
 ## 📂 Repository Structure  
 ```
